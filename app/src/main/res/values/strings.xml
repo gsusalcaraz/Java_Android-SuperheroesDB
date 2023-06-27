@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Superheroes Cards</string>
+    <string name="nombre">Nombre</string>
+    <string name="nombreReal">Nombre real</string>
+
+    <string name="grabar">Grabar</string>
+    <string name="editarregistro">Editar registro</string>
+    <string name="crearregistro">Crear registro</string>
+
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="preguntaeliminar">¿Desea eliminar?</string>
+    <string name="preguntaeliminartodos">¿Desea eliminar todos los registros?</string>
+    <string name="registroeliminado">Registro eliminado</string>
+
+
+    <string name="entrarHome">(Haz onFling hacia la izquierda para entrar)</string>
+
+
+
+</resources>
